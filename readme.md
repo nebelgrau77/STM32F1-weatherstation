@@ -1,7 +1,7 @@
 Simple weather station using STM32F103 "blue pill" board,
 Bosch BME280 sensor and SSD1306 OLED display.
 
-![weather station](bme280ssd1306stm32f1.jpg)
+![weather station](https://github.com/nebelgrau77/STM32F1-weatherstation/blob/master/bme280ssd1306stm32f1.jpg)
 
 
 
